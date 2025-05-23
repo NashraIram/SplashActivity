@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="todo">Todo</string>
+    <string name="founder_details_app">Founder Details App</string>
+    <string name="name">Name</string>
+</resources>

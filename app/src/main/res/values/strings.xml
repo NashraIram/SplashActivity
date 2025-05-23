@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SplashActivity</string>
+    <string name="founder_name">Founder Name</string>
+    <string name="description">Description</string>
+</resources>

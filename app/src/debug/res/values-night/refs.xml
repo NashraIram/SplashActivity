@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="elon_musk">Elon Musk</drawable>
+    <drawable name="steve_jobs">steve_jobs</drawable>
+    <drawable name="mark_zuckerberg">Mark Zuckerberg</drawable>
+</resources>
