@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <drawable name="elon_musk">elon musk</drawable>
-    <drawable name="elon_musk">elon musk</drawable>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <drawable name="elon_musk" tools:ignore="DuplicateDefinition">elon musk</drawable>
+    <drawable name="elon_musk" tools:ignore="DuplicateDefinition">elon musk</drawable>
 </resources>
